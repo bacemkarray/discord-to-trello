@@ -1,1 +1,3 @@
-A project I did in the summer of 2024. It connects a Discord bot to a Trello board and allows users to add/remove cards on that board by reacting with emojis on a Discord channel. Hosted on EC2. 
+This project connects a Discord bot to a Trello board and allows users to add/remove cards on that board by reacting to messages with emojis in a channel. It was completed in the summer of 2024. I revisited it to practice SSH'ing into an EC2 instance instead of manually writing the code into one like I did the first time. 
+
+I will consider refactoring this entire project into something that meets my standards of coding, but until then it remains a simple albeit messy service that I was able to provide to a small community.
